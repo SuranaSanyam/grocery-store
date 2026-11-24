@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+  <rect width="400" height="300" fill="#f4f7f2"/>
+  <circle cx="200" cy="130" r="75" fill="#e5ede0"/>
+  <!-- Bottle -->
+  <rect x="180" y="60" width="40" height="30" rx="4" fill="#a48c5a"/>
+  <rect x="188" y="45" width="24" height="15" rx="3" fill="#6d542b"/>
+  <path d="M180 90 L160 120 L160 200 L240 200 L240 120 L220 90 Z" fill="#60743f"/>
+  <rect x="170" y="130" width="60" height="50" rx="4" fill="#f9f9ee"/>
+  <text x="200" y="152" font-family="Arial, sans-serif" font-size="9" font-weight="bold" fill="#3b4b24" text-anchor="middle">EXTRA VIRGIN</text>
+  <text x="200" y="165" font-family="Arial, sans-serif" font-size="8" fill="#586938" text-anchor="middle">OLIVE OIL</text>
+  <text x="200" y="245" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2d3b19" text-anchor="middle">Extra Virgin Olive Oil</text>
+  <text x="200" y="270" font-family="Arial, sans-serif" font-size="13" fill="#4d5f30" text-anchor="middle">Cold Pressed - 500ml</text>
+</svg>

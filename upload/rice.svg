@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+  <rect width="400" height="300" fill="#f5f0e6"/>
+  <circle cx="200" cy="130" r="70" fill="#e8dec8"/>
+  <path d="M140 150 Q200 210 260 150 Z" fill="#d4c3a3"/>
+  <ellipse cx="200" cy="148" rx="60" ry="12" fill="#fffdfa"/>
+  <ellipse cx="185" cy="130" rx="6" ry="14" fill="#ffffff" transform="rotate(-20 185 130)"/>
+  <ellipse cx="200" cy="125" rx="6" ry="15" fill="#ffffff"/>
+  <ellipse cx="215" cy="130" rx="6" ry="14" fill="#ffffff" transform="rotate(20 215 130)"/>
+  <ellipse cx="175" cy="140" rx="5" ry="12" fill="#ffffff" transform="rotate(-35 175 140)"/>
+  <ellipse cx="225" cy="140" rx="5" ry="12" fill="#ffffff" transform="rotate(35 225 140)"/>
+  <text x="200" y="245" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#5c4e36" text-anchor="middle">Premium Basmati Rice</text>
+  <text x="200" y="270" font-family="Arial, sans-serif" font-size="13" fill="#8c7a5e" text-anchor="middle">Aromatic Long Grain - 1kg</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+  <rect width="400" height="300" fill="#fdfbf7"/>
+  <circle cx="200" cy="130" r="75" fill="#f5ede0"/>
+  <!-- Eggs in carton -->
+  <ellipse cx="160" cy="140" rx="26" ry="36" fill="#e0a96d" transform="rotate(-10 160 140)"/>
+  <ellipse cx="152" cy="130" rx="8" ry="16" fill="#ecc49b" transform="rotate(-10 152 130)"/>
+  <ellipse cx="210" cy="135" rx="28" ry="38" fill="#d49a5b"/>
+  <ellipse cx="202" cy="122" rx="9" ry="18" fill="#e5b37f"/>
+  <ellipse cx="255" cy="142" rx="25" ry="34" fill="#e0a96d" transform="rotate(12 255 142)"/>
+  <ellipse cx="248" cy="132" rx="7" ry="15" fill="#ecc49b" transform="rotate(12 248 132)"/>
+  <text x="200" y="245" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#6d4c41" text-anchor="middle">Farm Brown Eggs</text>
+  <text x="200" y="270" font-family="Arial, sans-serif" font-size="13" fill="#8d6e63" text-anchor="middle">Cage-Free Pack of 12</text>
+</svg>
